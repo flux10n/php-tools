@@ -28,7 +28,7 @@ $city = htmlentities($_POST['city'], ENT_QUOTES, 'UTF-8');
 // ipapi.com provide api too
 
 // old API without login from: http://freegeoip.net
-// https://github.com/apilayer/freegeoip
+// https://github.com/xjusthaxor
 // $location = json_decode(file_get_contents('http://freegeoip.net/json/'.$ip));
 
 // with new API with login from: http://ipstack.com (www.freegeoip.net) | LogIn there to get your own access key... It's free
