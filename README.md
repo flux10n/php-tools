@@ -12,7 +12,7 @@ https://gitlab.com/xjusthaxor/
 
 ### Features
 - [Dorking loli](#wibu)
-- [Bisa ngehek NASA](#Semua keinginan pasti akan berhasil jika kita mau berusaha)
+- [Bisa ngehek NASA](#serepet)
 - [Jadi hemker](#serepet)
 - [Ngehek jadi mudah](#serepet)
   - [Geser bulan](#serepet)
