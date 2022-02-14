@@ -28,6 +28,9 @@ Copyright &copy; 2022 cyborg xploit
 <a href="https://github.com/xjusthaxor/">#reviews</a>
 <a href="https://instagram.com/">#instagram</a>
 <a href="https://facebook.com/">#facebook</a>
+<a href="https://github.com/xjusthaxor/">#python</a>
+<a href="https://github.com/xjusthaxor/">#php</a>
+<a href="https://github.com/xjusthaxor/">#html</a>
 
 
 
