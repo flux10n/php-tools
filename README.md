@@ -17,5 +17,20 @@ Send email to <a href="https://cyborgxploit@protonmail.com">cyborgxploit@protonm
   - [Dapet akses](#berhasil)
   - [Tebas index](#berhasil)
 
-### NOTE!
-Semua keinginan pasti akan berhasil jika kita mau berusaha. <a href="https://github.com/xjusthaxor/#">#serepet</a>
+### Tags
+Copyright &copy; 2022 cyborg xploit
+
+<a href="https://github.com/xjusthaxor/">#hacking</a>
+<a href="https://github.com/xjusthaxor/">#cyber security</a>
+<a href="https://github.com/xjusthaxor/">#tools</a>
+<a href="https://privacy1337.blogspot.com/">#blogger</a>
+<a href="https://github.com/xjusthaxor/">#earning</a>
+<a href="https://github.com/xjusthaxor/">#reviews</a>
+<a href="https://instagram.com/">#instagram</a>
+<a href="https://facebook.com/">#facebook</a>
+
+
+
+
+
+
