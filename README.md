@@ -2,13 +2,8 @@
 
 Use the tools well, don't abuse it, ok thank you, don't forget to obey the health protocols from me. <a href="https://www.buymeacoffee.com/covidpoc80v">Buy me coffee</a>
 
-### Demo?
-
-```md
-https://privacy1337.blogspot.com/
-https://github.com/xjusthaxor/
-https://gitlab.com/xjusthaxor/
-```
+### Contribute
+Send email to <a href="https://cyborgxploit@protonmail.com">cyborgxploit@protonmail.com</a> and give your suggestions how to improve this github.
 
 ### Features
 - [Dorking loli](#wibu)
