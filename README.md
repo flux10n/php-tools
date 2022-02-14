@@ -12,15 +12,15 @@ https://gitlab.com/xjusthaxor/
 
 ### Features
 - [Dorking loli](#wibu)
-- [Bisa ngehek NASA](#nasa)
-- [Jadi hemker](#)
-- [Ngehek jadi mudah](#)
-  - [Geser bulan](#)
-  - [Nguasain dunia :v](#)
-  - [Dapet duit?](#tydack)
-  - [Panen shell?](#tergantung)
-  - [Dapet akses](#tydack)
-  - [Tebas index](#tergantung)
+- [Bisa ngehek NASA](#Semua keinginan pasti akan berhasil jika kita mau berusaha)
+- [Jadi hemker](#serepet)
+- [Ngehek jadi mudah](#serepet)
+  - [Geser bulan](#serepet)
+  - [Nguasain dunia :v](#serepet)
+  - [Dapet duit?](#berhasil)
+  - [Panen shell?](#berhasil)
+  - [Dapet akses](#berhasil)
+  - [Tebas index](#berhasil)
 
 ### NOTE!
 Semua keinginan pasti akan berhasil jika kita mau berusaha. <a href="https://github.com/xjusthaxor/#">#serepet</a>
