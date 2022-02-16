@@ -32,8 +32,8 @@ Copyright &copy; 2022 cyborg xploit
 <a href="https://github.com/xjusthaxor/">#php</a>
 <a href="https://github.com/xjusthaxor/">#html</a>
 
-
-
-
-
-
+### Greetz
+<a href="https://github.com/xjusthaxor"><img src="https://avatars.githubusercontent.com/u/98892565?s=96&v=4?size=100" width="100" height="100"></a> | [![GITHUB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStJ661_VwO4iG6mzSlGKrrM3SD7L8iPCl7Zg&usqp=CAU?size=100)](https://github.com/) 
+---|---
+[xjusthaxor](https://github.com/xjusthaxor)  | [Github](https://github.com/) | [+18](http://xnxx.com)
+Author-CyborgXploit  | Lord dari segala lord |
